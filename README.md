@@ -10,3 +10,35 @@ Reduce unused JavaScript and delay script loading until needed to lower bytes us
 - *https://massa.net/_nuxt/811156f.js*
 
 These suggestions can help pages load faster. They do not directly affect Performance scores.
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+</head>
+<body>
+ 
+ <table>
+ 	<tr>
+ 		<td> URL </td>
+ 		<td> Transfer Size </td>
+    <td> Potential Savings </td>
+ 	</tr>
+ 	<tr>
+ 		<td> https://massa.net/_nuxt/8cc9329.js </td>
+ 		<td> 131,9 KiB </td>
+    <td> 69,7 KiB </td>
+ 	</tr>
+   <tr>
+ 		<td> https://massa.net/_nuxt/fc77377.js </td>
+ 		<td> 111,7 KiB 2</td>
+     <td> 45,4 KiB </td>
+  </tr>
+    <tr>
+ 		<td> https://massa.net/_nuxt/811156f.js </td>
+ 		<td> 87,6 KiB</td>
+   <td> 36,1 KiB </td>
+
+ </table>
+
+</body>
+</html>
